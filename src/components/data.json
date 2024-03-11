@@ -1,0 +1,161 @@
+[
+  {
+    "id": 1,
+    "brand": "Wix",
+    "brandLogo": "https://cdn-icons-png.flaticon.com/512/5968/5968753.png",
+    "description": "Wix.com Ltd. is an Israeli software company, publicly listed in the US, that provides cloud-based web development services. It offers tools for creating HTML5 websites and mobile sites using online drag-and-drop editing.",
+    "members": [
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+    ],
+    "categories": ["Automation"],
+    "tags": ["DigitalTransformation", "#online"],
+    "nextMeeting": "in 30 minutes",
+    "notification": 2
+  },
+  {
+    "id": 2,
+    "brand": "Shopify",
+    "brandLogo": "https://e1.pngegg.com/pngimages/260/212/png-clipart-macos-app-icons-shopify-thumbnail.png",
+    "description": "Shopify Inc. is a Canadian multinational e-commerce company headquartered in Ottawa, Ontario. Shopify is the name of its proprietary e-commerce platform for online stores and retail point-of-sale systems.",
+    "members": [
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+    ],
+    "categories": ["E-commerce", "B2B"],
+    "tags": ["#OnlineShopping", "#DigitalTransformation"],
+    "nextMeeting": "Tomorrow"
+  },
+  {
+    "id": 3,
+    "brand": "Mailchimp",
+    "brandLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBoavaWAp_L9sK9nKaOH-BXReJ_0b_K1-7LoS3xG0D0g&s",
+    "description": "Mailchimp is a marketing automation and email marketing platform. 'Mailchimp' is the trade name of its operator, Rocket Science Group, an American company founded in 2001 by Ben Chestnut and Mark Armstrong, with Dan Kurzius joining at a later date.",
+    "members": [
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+    ],
+    "categories": ["SAAS", "Mobile"],
+    "tags": ["#Technology", "#Cloud"],
+    "nextMeeting": "Tomorrow"
+  },
+  {
+    "id": 4,
+    "brand": "Paypal",
+    "brandLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZDIdPo7EpLw9gHOX5YGTxrLcyPbTwYwv2E4N0TnUm9w&s",
+    "description": "PayPal Holdings, Inc. is an American multinational financial technology company operating an online payments system in the majority of countries that support online money transfers; it serves as an electronic alternative to traditional paper methods such as checks and money orders.",
+    "members": [
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+    ],
+    "categories": ["Marketplace"],
+    "tags": ["#BuySellOnline", "#MoneyTransfer"],
+    "nextMeeting": "in 6 hours",
+    "notification": 7
+  },
+
+  {
+    "id": 5,
+    "brand": "Disney",
+    "brandLogo": "https://seeklogo.com/images/D/disney-logo-9649A88458-seeklogo.com.png",
+    "description": "The Walt Disney Company, commonly known as Disney, is an American multinational mass media and entertainment conglomerate that is headquartered at the Walt Disney Studios complex in Burbank, California",
+    "members": [
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+    ],
+    "categories": ["B2B", "B2C"],
+    "tags": ["#BunisessPartnerShip"],
+    "nextMeeting": "No contact"
+  },
+  {
+    "id": 6,
+    "brand": "Intercom",
+    "brandLogo": "https://seeklogo.com/images/I/intercom-logo-B222146C9B-seeklogo.com.png",
+    "description": "Intercom, Inc. is a software company that specializes in business messaging, providing businesses with a way to chat with their customers. Intercom has its headquarters in San Francisco with offices in Chicago, Dublin, Sydney and London",
+    "members": [
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+    ],
+    "categories": ["Technology", "SAAS"],
+    "tags": ["#SmartFunance", "#Finance"],
+    "nextMeeting": "in 1 hour",
+    "notification": 9
+  },
+  {
+    "id": 7,
+    "brand": "Google",
+    "brandLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlO-Sryy8KGEGSjbmE4VTP3GLfOv3EDHYyrwrD_bMBw&s",
+    "description": "Google LLC is an American multinational corporation and technology company focusing on online advertising, search engine technology, cloud computing, computer software, quantum computing, e-commerce, consumer electronics, and artificial intelligence.",
+    "members": [
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+    ],
+    "categories": ["Finance", "Automation"],
+    "tags": ["#SmartFunance", "#Information"],
+    "nextMeeting": "in 30 minutes",
+    "notification": 5
+  },
+  {
+    "id": 8,
+    "brand": "Evernote",
+    "brandLogo": "https://cdn-icons-png.flaticon.com/512/187/187193.png",
+    "description": "Evernote is a note-taking and task-management application developed by the Evernote Corporation. It is intended for archiving and creating notes with embedded photos, audio, and saved web content. Notes are stored in virtual 'notebooks' and can be tagged, annotated, edited, searched, and exported.",
+    "members": [
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+    ],
+    "categories": ["Transportation"],
+    "tags": ["#Logisttics", "#UX"],
+    "nextMeeting": "Next month"
+  },
+  {
+    "id": 9,
+    "brand": "Microsoft",
+    "brandLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyFIttS5RlwttUKN2S0tXMwJiotemTi36BPQL5cFoT5A&s",
+    "description": "Microsoft Corporation is an American multinational corporation and technology company headquartered in Redmond, Washington. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft 365 suite of productivity applications, and the Edge web browser",
+    "members": [
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+    ],
+    "categories": ["Publishing", "B2C"],
+    "tags": ["#B2CMarketing", "#RetailIT"],
+    "nextMeeting": "No contact",
+    "notification": 14
+  },
+  {
+    "id": 10,
+    "brand": "Invision",
+    "brandLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbGe8gXnNngTJIGHR9L8PyDfEhz-ErFmO2nrNvpFLx4g&s",
+    "description": "InVision is the online whiteboard and productivity platform powering the future of work. See how InVision Freehand is purpose-built for team collaboration.",
+    "members": [
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+    ],
+    "categories": ["Web Service"],
+    "tags": ["#APIIntegration"],
+    "nextMeeting": "Next month"
+  }
+]
