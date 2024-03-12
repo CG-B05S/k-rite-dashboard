@@ -25,21 +25,21 @@ To get a local copy of the project up and running, follow these steps:
 
 1. Clone the repository:
 
-    ``` git clone https://github.com/your-username/k-rite-dashboard.git ```
+    ``` git clone https://github.com/CG-B05S/k-rite-dashboard.git ```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
     ``` cd k-rite-dashboard ```
 
-3. Install dependencies:
+4. Install dependencies:
 
     ``` npm install ```
 
-4. Start the development server:
+5. Start the development server:
 
     ``` npm start ```
 
-5. Open your browser and go to http://localhost:3000 to view the application.
+6. Open your browser and go to http://localhost:3000 to view the application.
 
 ### Acknowledgements
 
